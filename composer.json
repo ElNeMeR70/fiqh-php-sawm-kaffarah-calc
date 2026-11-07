@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/fiqh-php-sawm-kaffarah-calc",
+  "description": "Ramadan Sawm Qada, Fidyah & Kaffarah Obligation Resolver (محرك أحكام الصيام والفدية والكفارات وقضاء الأيام)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
